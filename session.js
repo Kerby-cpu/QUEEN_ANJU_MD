@@ -22,4 +22,4 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_IDANJU-MD=jB8lzZ6b#wQAsYObTFm5kOJnq_zjGUVe-OIX7PPb6gff6bkE5qTU || "your session_id here",
-};
+ANJU-MD=Dd1GBJZJ#yT-k0e-WbqvZeKoA3c5vqXPpyLrgW-ayBskJtrQpUO0};
